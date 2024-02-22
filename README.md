@@ -1,2 +1,4 @@
-# pomodoroFocus
-iOS Pomodoro app
+# Pomodoro Focus
+Pomodoro app for iOS.
+
+Copyright by Florian Knaus
